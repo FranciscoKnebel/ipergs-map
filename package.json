@@ -1,0 +1,30 @@
+{
+  "name": "ipergs-map",
+  "version": "1.0.0",
+  "description": "ipergs map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ipergs"
+  ],
+  "author": "Francisco Knebel",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "puppeteer": "^1.14.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoKnebel/ipergs-map.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FranciscoKnebel/ipergs-map/issues"
+  },
+  "homepage": "https://github.com/FranciscoKnebel/ipergs-map#readme"
+}

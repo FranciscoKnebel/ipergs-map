@@ -1,0 +1,10 @@
+[ 
+  { "id": "01", "value": "Médicos" },
+  { "id": "02", "value": "Cirurgiões Buco-maxilo-faciais(Restritos a atendimentos hospitalares" },
+  { "id": "03", "value": "Hospitais" },
+  { "id": "04", "value": "Laboratórios" },
+  { "id": "05", "value": "Clínicas" },
+  { "id": "06", "value": "Atendimento de emergência" },
+  { "id": "07", "value": "Serviços de diagnóstico complementar" },
+  { "id": "08", "value": "Serviços de atendimento especializado" }
+]
